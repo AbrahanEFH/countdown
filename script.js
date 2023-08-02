@@ -5,7 +5,7 @@ const secondsEl =document.querySelector('#seconds')
 
 
 
-const vacations = '3 Aug 2023';
+const vacations = '10 nov 2023';
 
 function countdown() {
     const vacationsDate = new Date(vacations)
